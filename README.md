@@ -23,9 +23,9 @@
   <p> What am I working on? </p>
   <div align="left">
     <p> :bug: I'm currently working on finalizing changes & deploying one of my personal projects,
-      <a href="https://github.com/bryn-morris/Smart-Park">Smart Park</a>
+      <a href="https://github.com/bryn-morris/Smart-Park">Smart Park</a>!
     </p>
-    <p> :baby_chick: I'm also working with websocket creation & integration </p> 
+    <p> :baby_chick: I'm also working with websocket creation & integration. </p> 
     <p> :bird: Finally, I'm currently working with the <a href="https://www.houstonsaengerbund.org/">Houston Saengerbund</a> to update and maintain their <a href="https://vocalcompetition.org/">vocal competition website</a>!
     </p>
   </div>
