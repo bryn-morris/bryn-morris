@@ -8,6 +8,7 @@
   <a style="padding: 10px;"href="[your-twitter-URL](https://twitter.com/BrynMorris23)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=bryn-morris&color=EE6F6E" alt="watching_count" />
 </div>
 
 <!-- ### Hi there 👋 
