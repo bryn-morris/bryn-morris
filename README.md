@@ -19,15 +19,16 @@
 
 ---
 <div id="aboutme" align="center">
-  <h3 align="center">About me</h3>
+  <p align="center">About me</p>
+  <p> What am I working on? </p>
   <p> :bug: I'm currently working on finalizing changes & deploying one of my personal projects,
     <a href="https://github.com/bryn-morris/Smart-Park">Smart Park</a>
   </p>
-  
-  
+  <p> :baby_chick: I'm also working with websocket creation & integration </p> 
+  <p> :bird: Finally, I'm currently working with the <a href="https://www.houstonsaengerbund.org/">Houston Saengerbund</a> to update and maintain their <a href="https://vocalcompetition.org/">vocal competition website</a>!
+  </p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bryn-morris&ring=EB5454&background=333333&fire=FF8484&sideNums=FFCA3ACA&currStreakNum=FFA62C&border=BB7A20&stroke=8B4140&currStreakLabel=FFA62C&sideLabels=FFCA3ACA&dates=D6D2D7FD"/>
 </div>
----
 
 [smart-park-link]: https://github.com/bryn-morris/Smart-Park
 
