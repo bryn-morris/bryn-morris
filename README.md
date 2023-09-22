@@ -5,7 +5,6 @@
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=bryn-morris&color=EE6F6E" alt="watching_count" />
 </div>
-<br>
 
 ---
 <h3 align="center">REACH ME:</h3>
@@ -24,6 +23,10 @@
 ---
 
 <h3 align="center">ABOUT ME</h3>
+
+<p> Hi There! I'm Bryn (She/Her)</p>
+<p> Fullstack Junior Software Developer </p>
+<p> :roller_skate: Avid Roller Derby Enthusiast</p>
 
 **What am I working on?**
 
