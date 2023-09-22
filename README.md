@@ -15,10 +15,6 @@
     <img src="https://img.shields.io/badge/-Medium-ee6f6e?style=for-the-badge&logo=medium" alt="Twitter Badge"/>
   </a>
 </div>
-<br>
-<div align="center">
-   <img src="https://komarev.com/ghpvc/?username=bryn-morris&color=EE6F6E" alt="watching_count" />
-</div>
 
 ---
 <h3 align="center">ABOUT ME</h3>
@@ -30,6 +26,12 @@
     <p>:bird: Finally, I'm currently working with the <a href="https://www.houstonsaengerbund.org/">Houston Saengerbund</a> to update and maintain their <a href="https://vocalcompetition.org/">vocal competition website</a>!</p>
   </div>
   </div>
+<br>
+<br>
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=bryn-morris&color=EE6F6E" alt="watching_count" />
+</div>
+<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bryn-morris&ring=EB5454&background=333333&fire=FF8484&sideNums=FFCA3ACA&currStreakNum=FFA62C&border=BB7A20&stroke=8B4140&currStreakLabel=FFA62C&sideLabels=FFCA3ACA&dates=D6D2D7FD"/>
 </div>
