@@ -33,7 +33,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryn-morris&show_icons=true&locale=en&layout=donut-vertical&theme=merko" alt="ovi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryn-morris&show_icons=true&locale=en&layout=donut-vertical&theme=rose_pine" alt="ovi" />
 </div>
 <br>
 <div align="center">
