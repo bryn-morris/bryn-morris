@@ -18,10 +18,12 @@
 </div>
 
 ---
-<div id="aboutme">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryn-morris&theme=calm-pink" alt="mystreak"/>
+<div id="aboutme" align="center">
+  <h3 align="center">About me</h3>
+  <p></p>
+  <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bryn-morris&ring=EB5454&background=333333&fire=FF8484&sideNums=FFCA3ACA&currStreakNum=FFA62C&border=BB7A20&stroke=8B4140&currStreakLabel=FFA62C&sideLabels=FFCA3ACA&dates=D6D2D7FD)](https://git.io/streak-stats)"/>
 </div>
-
+---
 
 <!-- ### Hi there 👋 
 
