@@ -20,11 +20,11 @@
 ---
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryn-morris&show_icons=true&locale=en&layout=donut&bg_color=333333&text_color=f4eff5&border_color=bb7a20&title_color=ff8484&icon_color=4c71f2" alt="ovi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bryn-morris&ring=EB5454&background=333333&fire=FF8484&sideNums=FFCA3ACA&currStreakNum=FFA62C&border=BB7A20&stroke=8B4140&currStreakLabel=FFA62C&sideLabels=FFCA3ACA&dates=D6D2D7FD"/>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bryn-morris&ring=EB5454&background=333333&fire=FF8484&sideNums=FFCA3ACA&currStreakNum=FFA62C&border=BB7A20&stroke=8B4140&currStreakLabel=FFA62C&sideLabels=FFCA3ACA&dates=D6D2D7FD"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryn-morris&show_icons=true&locale=en&layout=donut&bg_color=333333&text_color=f4eff5&border_color=bb7a20&title_color=ff8484&icon_color=4c71f2" alt="ovi" />
 </div>
 
 ---
