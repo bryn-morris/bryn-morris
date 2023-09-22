@@ -3,7 +3,7 @@
 </div>
 
 ---
-<h3 align="center">Reach me:</h3>
+<h3 align="center">REACH ME:</h3>
 <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/brynfor-morris/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,9 +20,8 @@
 </div>
 
 ---
-
+<h3 align="center">ABOUT ME</h3>
 <div id="aboutme" align="center">
-  <h3 align="center">About Me</h3>
   <div align="left">
     <p><strong>What am I working on?</strong></p>
     <p>:bug: I'm currently working on finalizing changes & deploying one of my personal projects, <a href="https://github.com/bryn-morris/Smart-Park">Smart Park</a>!</p>
