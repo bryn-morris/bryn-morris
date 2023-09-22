@@ -41,7 +41,7 @@ When I'm not writing code, you'll probably find me playing :roller_skate: Roller
   
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryn-morris&show_icons=true&locale=en&layout=donut-vertical&bg_color=333333&text_color=#f4eff5" alt="ovi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryn-morris&show_icons=true&locale=en&layout=donut-vertical&bg_color=333333&text_color=f4eff5" alt="ovi" />
 </div>
 <br>
 <div align="center">
