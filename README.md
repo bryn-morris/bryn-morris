@@ -1,7 +1,6 @@
 ![Header](./github-header-resized.png)
 
-
-<div id="badges" align="center">
+<div id="badges" align="center" style="padding: 10px;">
   <a style="padding: 10px;" href="[your-linkedin-URL](https://www.linkedin.com/in/brynfor-morris/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -9,11 +8,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<div align="center">
+<div align="center" style="padding: 10px;">
    <img src="https://komarev.com/ghpvc/?username=bryn-morris&color=EE6F6E" alt="watching_count" />
 </div>
+
 ---
+
+
 
 <!-- ### Hi there 👋 
 
