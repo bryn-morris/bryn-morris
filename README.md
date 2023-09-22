@@ -24,9 +24,8 @@
 
 <h3 align="center">ABOUT ME</h3>
 
-<p> Hi There! I'm Bryn (She/Her)</p>
-<p> Fullstack Junior Software Developer </p>
-<p> :roller_skate: Avid Roller Derby Enthusiast</p>
+Hi There! I'm Bryn (She/Her) and am a Fullstack Developer looking to break into the industry and tools of tomorrow! 
+When I'm not writing code, you'll probably find me playing :roller_skate: Roller Derby :roller_skate:
 
 **What am I working on?**
 
