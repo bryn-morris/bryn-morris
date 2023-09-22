@@ -9,7 +9,7 @@
 <!--   <a href="[your-medium-URL](https://medium.com/@brynfor.g.c.morris)">
     <img />
   </a> -->
-  <a style="margin: 10px; border-radius: 10px" href="[your-twitter-URL](https://twitter.com/BrynMorris23)">
+  <a style="margin: 10px;" href="[your-twitter-URL](https://twitter.com/BrynMorris23)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -20,7 +20,7 @@
 ---
 <div id="aboutme" align="center">
   <h3 align="center">About me</h3>
-  <p></p>
+  <p> Test </p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bryn-morris&ring=EB5454&background=333333&fire=FF8484&sideNums=FFCA3ACA&currStreakNum=FFA62C&border=BB7A20&stroke=8B4140&currStreakLabel=FFA62C&sideLabels=FFCA3ACA&dates=D6D2D7FD"/>
 </div>
 ---
