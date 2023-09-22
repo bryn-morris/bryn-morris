@@ -5,17 +5,6 @@
 <!-- <div align="center">
    <img src="https://komarev.com/ghpvc/?username=bryn-morris&color=EE6F6E" alt="watching_count" />
 </div> -->
-<div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/brynfor-morris/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="[your-twitter-URL](https://twitter.com/BrynMorris23)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://medium.com/@brynfor.g.c.morris">
-    <img src="https://img.shields.io/badge/-Medium-ee6f6e?style=for-the-badge&logo=medium" alt="Twitter Badge"/>
-  </a>
-</div>
 
 ---
  
@@ -25,6 +14,17 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryn-morris&show_icons=true&locale=en&layout=donut&bg_color=333333&text_color=f4eff5&border_color=bb7a20&title_color=ff8484&icon_color=4c71f2" alt="ovi" />
+</div>
+<div id="badges" align="center">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/brynfor-morris/)">
+    <img src="https://img.shields.io/badge/LinkedIn-ff8484?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://twitter.com/BrynMorris23)">
+    <img src="https://img.shields.io/badge/Twitter-ff8484?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://medium.com/@brynfor.g.c.morris">
+    <img src="https://img.shields.io/badge/-Medium-ee6f6e?style=for-the-badge&logo=medium" alt="Medium Badge"/>
+  </a>
 </div>
 
 ---
