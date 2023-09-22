@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Twitter-ee6f6e?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://medium.com/@brynfor.g.c.morris">
-    <img src="https://img.shields.io/badge/-Medium-ee6f6e?style=for-the-badge&logo=medium" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/-Medium-ee6f6e?style=logo=medium" alt="Medium Badge"/>
   </a>
 </div>
 
