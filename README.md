@@ -17,6 +17,7 @@
 </div>
 
 ---
+
 <h3 align="center">ABOUT ME</h3>
 
 **What am I working on?**
@@ -26,11 +27,13 @@
     <p>:baby_chick: I'm also working with websocket creation & integration.<p>
     <p>:bird: Finally, I'm currently working with the <a href="https://www.houstonsaengerbund.org/">Houston Saengerbund</a> to update and maintain their <a href="https://vocalcompetition.org/">vocal competition website</a>!</p>
   </div>
+
+---
+  
 <br>
-<br>
-<div align="center">
+<!-- <div align="center">
    <img src="https://komarev.com/ghpvc/?username=bryn-morris&color=EE6F6E" alt="watching_count" />
-</div>
+</div> -->
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryn-morris&show_icons=true&locale=en&layout=donut-vertical&theme=rose_pine" alt="ovi" />
