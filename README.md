@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/-Medium-ee6f6e?style=for-the-badge&logo=medium" alt="Twitter Badge"/>
   </a>
 </div>
+<br>
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=bryn-morris&color=EE6F6E" alt="watching_count" />
 </div>
