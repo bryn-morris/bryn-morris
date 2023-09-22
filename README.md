@@ -1,6 +1,11 @@
 <div align="center">
   <img src="./github-header-resized.png" alt="Header"/>
 </div>
+<br>
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=bryn-morris&color=EE6F6E" alt="watching_count" />
+</div>
+<br>
 
 ---
 <h3 align="center">REACH ME:</h3>
@@ -30,11 +35,7 @@
 
 ---
   
-<br>
-<!-- <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=bryn-morris&color=EE6F6E" alt="watching_count" />
-</div> -->
-<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryn-morris&show_icons=true&locale=en&layout=donut-vertical&theme=rose_pine" alt="ovi" />
 </div>
