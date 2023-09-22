@@ -20,18 +20,13 @@
 </div>
 
 ---
-
-
 <div id="aboutme" align="center">
-  ## About Me
-  <p style="font-size: 24px; font-weight: bold;">About me</p>
-  <p><strong>What am I working on?</strong></p>
-  <div align="left">
-    <ul>
-      <li>:bug: I'm currently working on finalizing changes & deploying one of my personal projects, <a href="https://github.com/bryn-morris/Smart-Park">Smart Park</a>!</li>
-      <li>:baby_chick: I'm also working with websocket creation & integration.</li>
-      <li>:bird: Finally, I'm currently working with the <a href="https://www.houstonsaengerbund.org/">Houston Saengerbund</a> to update and maintain their <a href="https://vocalcompetition.org/">vocal competition website</a>!</li>
-    </ul>
+  <h4 style="font-size: 24px; font-weight: bold;" >About me</h4>
+  <div align="left">\
+    <p><strong>What am I working on?</strong></p>
+    <p>:bug: I'm currently working on finalizing changes & deploying one of my personal projects, <a href="https://github.com/bryn-morris/Smart-Park">Smart Park</a>!</p>
+    <p>:baby_chick: I'm also working with websocket creation & integration.<p>
+    <p>:bird: Finally, I'm currently working with the <a href="https://www.houstonsaengerbund.org/">Houston Saengerbund</a> to update and maintain their <a href="https://vocalcompetition.org/">vocal competition website</a>!</p>
   </div>
 <!--     <p> :bug: I'm currently working on finalizing changes & deploying one of my personal projects,
       <a href="https://github.com/bryn-morris/Smart-Park">Smart Park</a>!
