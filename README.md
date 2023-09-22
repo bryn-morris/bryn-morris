@@ -24,15 +24,16 @@
 
 <h3 align="center">ABOUT ME</h3>
 
-Hi There! I'm Bryn (She/Her) and am a Fullstack Developer looking to break into the industry and tools of tomorrow! 
+Hi There! I'm Bryn and am a Fullstack Developer looking to break into the industry and tools of tomorrow! 
 When I'm not writing code, you'll probably find me playing :roller_skate: Roller Derby :roller_skate:
 
-**What am I working on?**
+**What am I up to?**
 
   <div align="left">
-    <p>:bug: I'm currently working on finalizing changes & deploying one of my personal projects, <a href="https://github.com/bryn-morris/Smart-Park">Smart Park</a>!</p>
-    <p>:baby_chick: I'm also working with websocket creation & integration.<p>
-    <p>:bird: Finally, I'm currently working with the <a href="https://www.houstonsaengerbund.org/">Houston Saengerbund</a> to update and maintain their <a href="https://vocalcompetition.org/">vocal competition website</a>!</p>
+    <p>:dog2: I'm orking on finalizing changes & deploying one of my personal projects, <a href="https://github.com/bryn-morris/Smart-Park">Smart Park</a>!</p>
+    <p>:baby_chick: I'm exploring websockets and real-time communication within web applications. <p>
+    <p>:bird: I'm also working with the <a href="https://www.houstonsaengerbund.org/">Houston Saengerbund</a> to update and maintain their <a href="https://vocalcompetition.org/">vocal competition website</a>!</p>
+    <p>:chart_with_upwards_trend: Finally, I'm looking to develop my portfolio and work with local businesses to help them execute on their coding needs!</p>
   </div>
 
 ---
