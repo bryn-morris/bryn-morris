@@ -1,7 +1,6 @@
 ![Header](./github-header-resized.png)
 
 ---
-<h1>Where can you find me?</h1>
 
 <div id="badges" align="center" style="margin: 10px;">
   <a style="margin: 10px;" href="[your-linkedin-URL](https://www.linkedin.com/in/brynfor-morris/)">
@@ -19,7 +18,9 @@
 </div>
 
 ---
-
+<div id="aboutme">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryn-morris&theme=calm-pink" alt="mystreak"/>
+</div>
 
 
 <!-- ### Hi there 👋 
