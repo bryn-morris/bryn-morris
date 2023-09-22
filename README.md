@@ -2,7 +2,7 @@
 
 <!--
 **bryn-morris/bryn-morris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Header](./github-header-image.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
