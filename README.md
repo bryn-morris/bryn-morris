@@ -19,6 +19,7 @@
    <img src="https://komarev.com/ghpvc/?username=bryn-morris&color=EE6F6E" alt="watching_count" />
 </div>
 ---
+
 ## About Me
 <div id="aboutme" align="center">
   <h4>About me</h4>
