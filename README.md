@@ -2,13 +2,9 @@
   <img src="./github-header-resized.png" alt="Header"/>
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
    <img src="https://komarev.com/ghpvc/?username=bryn-morris&color=EE6F6E" alt="watching_count" />
-</div>
-
----
-<h3 align="center">REACH ME:</h3>
-<br>
+</div> -->
 <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/brynfor-morris/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,6 +15,16 @@
   <a href="https://medium.com/@brynfor.g.c.morris">
     <img src="https://img.shields.io/badge/-Medium-ee6f6e?style=for-the-badge&logo=medium" alt="Twitter Badge"/>
   </a>
+</div>
+
+---
+ 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryn-morris&show_icons=true&locale=en&layout=donut&bg_color=333333&text_color=f4eff5&border_color=bb7a20&title_color=ff8484&icon_color=4c71f2" alt="ovi" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bryn-morris&ring=EB5454&background=333333&fire=FF8484&sideNums=FFCA3ACA&currStreakNum=FFA62C&border=BB7A20&stroke=8B4140&currStreakLabel=FFA62C&sideLabels=FFCA3ACA&dates=D6D2D7FD"/>
 </div>
 
 ---
@@ -37,16 +43,7 @@ When I'm not writing code, you'll probably find me playing :roller_skate: Roller
     <p>:chart_with_upwards_trend: Finally, I'm looking to develop my portfolio and work with local businesses to help them execute on their coding needs!</p>
   </div>
 
----
-  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryn-morris&show_icons=true&locale=en&layout=donut&bg_color=333333&text_color=f4eff5&border_color=bb7a20&title_color=ff8484&icon_color=4c71f2" alt="ovi" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bryn-morris&ring=EB5454&background=333333&fire=FF8484&sideNums=FFCA3ACA&currStreakNum=FFA62C&border=BB7A20&stroke=8B4140&currStreakLabel=FFA62C&sideLabels=FFCA3ACA&dates=D6D2D7FD"/>
-</div>
 
 <!-- ### Hi there 👋 
 
