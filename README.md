@@ -20,9 +20,9 @@
 </div>
 
 ---
-<div id="aboutme" align="left">
-  <p align="center" style="font-size:24px">About me</p>
-  <p> What am I working on? </p>
+<div id="aboutme" align="center">
+  <p style="font-size:24px; font-weight: bold;">About me</p>
+  <p align> What am I working on? </p>
   <div align="left">
     <p> :bug: I'm currently working on finalizing changes & deploying one of my personal projects,
       <a href="https://github.com/bryn-morris/Smart-Park">Smart Park</a>!
