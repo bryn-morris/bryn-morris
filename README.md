@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./github-header-resized.png" alt="Header"/>
 </div>
-<br>
+
 <!-- <div align="center">
    <img src="https://komarev.com/ghpvc/?username=bryn-morris&color=EE6F6E" alt="watching_count" />
 </div> -->
