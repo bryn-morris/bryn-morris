@@ -20,10 +20,13 @@
 ---
 <div id="aboutme" align="center">
   <h3 align="center">About me</h3>
-  - :bug: I'm currently working on finalizing changes & deploying one of my personal projects, [Smart Park](https://github.com/bryn-morris/Smart-Park)!
+  - :bug: I'm currently working on finalizing changes & deploying one of my personal projects, [Smart Park](smart-park-link)!
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bryn-morris&ring=EB5454&background=333333&fire=FF8484&sideNums=FFCA3ACA&currStreakNum=FFA62C&border=BB7A20&stroke=8B4140&currStreakLabel=FFA62C&sideLabels=FFCA3ACA&dates=D6D2D7FD"/>
 </div>
 ---
+
+[smart-park-link]: https://github.com/bryn-morris/Smart-Park
 
 <!-- ### Hi there 👋 
 
