@@ -9,7 +9,7 @@
 <!--   <a href="[your-medium-URL](https://medium.com/@brynfor.g.c.morris)">
     <img />
   </a> -->
-  <a style="margin: 10px;" href="[your-twitter-URL](https://twitter.com/BrynMorris23)">
+  <a style="margin: 10px; border-radius: 10px" href="[your-twitter-URL](https://twitter.com/BrynMorris23)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
