@@ -24,13 +24,15 @@
 
 <div id="aboutme" align="center">
   ## About Me
-  <p align="left"> What am I working on? </p>
+  <p style="font-size: 24px; font-weight: bold;">About me</p>
+  <p><strong>What am I working on?</strong></p>
   <div align="left">
-    <div align="left">
-    - :bug: I'm currently working on finalizing changes & deploying one of my personal projects, [Smart Park](https://github.com/bryn-morris/Smart-Park)!
-    - :baby_chick: I'm also working with websocket creation & integration.
-    - :bird: Finally, I'm currently working with the [Houston Saengerbund](https://www.houstonsaengerbund.org/) to update and maintain their [vocal competition website](https://vocalcompetition.org/)!
-    </div>
+    <ul>
+      <li>:bug: I'm currently working on finalizing changes & deploying one of my personal projects, <a href="https://github.com/bryn-morris/Smart-Park">Smart Park</a>!</li>
+      <li>:baby_chick: I'm also working with websocket creation & integration.</li>
+      <li>:bird: Finally, I'm currently working with the <a href="https://www.houstonsaengerbund.org/">Houston Saengerbund</a> to update and maintain their <a href="https://vocalcompetition.org/">vocal competition website</a>!</li>
+    </ul>
+  </div>
 <!--     <p> :bug: I'm currently working on finalizing changes & deploying one of my personal projects,
       <a href="https://github.com/bryn-morris/Smart-Park">Smart Park</a>!
     </p>
